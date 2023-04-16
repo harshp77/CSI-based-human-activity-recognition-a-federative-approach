@@ -48,6 +48,8 @@
 
 ● Values : Consist of 45 phase columns and 45 amplitude columns
 
+![image](https://user-images.githubusercontent.com/76607486/232327309-af2cb4fc-bff2-4785-a793-f0df4419643a.png)
+
 
 ### Phase 2 (CSI feature Extraction)**
 
@@ -59,6 +61,9 @@
 
 ● Light-GBM : Yielded Feature ranking among frequency component
 
+![image](https://user-images.githubusercontent.com/76607486/232327327-fd313cdc-a457-4167-9fe2-daec8606baef.png)
+
+
 ### Phase 3 (Federated Learning)
 
 ● Input/Output : 2D time-varying data in x and y axis , order of 500 by 90, and outs 7 classes
@@ -68,6 +73,8 @@
 ● Global Aggregation : Scalar multiplication of data cardinality.
 
 ● Runtime : Each prediction takes 880 ms.
+
+![image](https://user-images.githubusercontent.com/76607486/232327339-fa6ee0db-878c-460c-b0b0-3153f610aee1.png)
 
 
 
@@ -85,6 +92,9 @@
 ● Part 3 Model Setup :
 
   ○ Preferable an edge device like Raspberry Pi or arduino with signal sensor
+  
+![image](https://user-images.githubusercontent.com/76607486/232327369-7590e26c-b05d-4c08-a897-974ea0000073.png)
+
 
 
 ## Experimental Results
