@@ -87,5 +87,17 @@
   ○ Preferable an edge device like Raspberry Pi or arduino with signal sensor
 
 
-### Experimental Results
+## Experimental Results
 
+### GCP Instance
+![image](https://user-images.githubusercontent.com/76607486/232314346-165bfbf6-b2df-4c83-ab54-90d601db30c8.png)
+
+### Carbon Tracker
+![image](https://user-images.githubusercontent.com/76607486/232314464-70d4638c-7ab7-465c-978f-a44b77b638ac.png)
+
+
+### Loss Plot 
+![image](https://user-images.githubusercontent.com/76607486/232314452-a2f6b9c5-0079-4564-87c8-bdcce38ca31b.png)
+
+
+### Confusion Matrix
